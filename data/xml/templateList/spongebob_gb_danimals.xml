@@ -1,0 +1,15 @@
+<!-- Fake template list for builder #1, property #1 -->
+<response>
+	<templates>
+			<template alias="templateNew01" />
+			<template alias="templateNew02" />
+			<template alias="templateNew03" />
+			<template alias="templateNew04" />
+			<template alias="templateNew05" />
+			<template alias="templateNew06" />
+			<template alias="templateNew07" />
+			<template alias="templateNew08" />
+			<template alias="templateNew09" />
+			<template alias="templateNew10" />
+	</templates>
+</response>

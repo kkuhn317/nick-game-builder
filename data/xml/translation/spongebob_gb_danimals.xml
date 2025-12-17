@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- *************  WARNING  ************ -->
+<!-- DO NOT EDIT THIS DOCUMENT DIRECTLY   -->
+<!-- USE THE LOCALIZATION TOOL TO EDIT    -->
+<!-- ************************************ -->
+<strings>
+  <language id="0">american_latin</language>
+  <string id="id_ui_loading_label" fontName="Futura%20Maxi%20Demi" fontSize="18" charSpace="0" lineSpace="0" catID="0"><![CDATA[LOADING]]></string>
+  <string id="id_ui_loading_building" fontName="Futura%20Maxi%20Demi" fontSize="18" charSpace="0" lineSpace="0" catID="0"><![CDATA[OPTIMIZING]]></string>
+  <string id="id_ui_loading_progress" fontName="Futura%20Maxi%20Demi" fontSize="16" charSpace="0" lineSpace="0" catID="0"><![CDATA[%24value%24]]></string>
+  <string id="id_ui_loading_builderTest" fontName="Futura%20Maxi%20Demi" fontSize="30" charSpace="0" lineSpace="0" catID="0"><![CDATA[Loading]]></string>
+  <string id="id_ui_title_button_play" fontName="Futura%20Maxi%20Bold" fontSize="20" charSpace="0" lineSpace="0" catID="1"><![CDATA[Play]]></string>
+  <string id="id_ui_title_gameTitle" fontName="Futura%20Maxi%20Bold" fontSize="65" charSpace="0" lineSpace="0" catID="1"><![CDATA[%24value%24]]></string>
+  <string id="id_ui_howtoplay_title" fontName="Futura%20Maxi%20Bold" fontSize="30" charSpace="0" lineSpace="0" catID="2"><![CDATA[How%20to%20Play]]></string>
+  <string id="id_ui_howtoplay_button_back" fontName="Futura%20Maxi%20Bold" fontSize="16" charSpace="0" lineSpace="0" catID="2"><![CDATA[Back]]></string>
+  <string id="id_ui_win_title" fontName="Futura%20Maxi%20Demi" fontSize="65" charSpace="0" lineSpace="0" catID="3"><![CDATA[You%20Win%21]]></string>
+  <string id="id_ui_win_score" fontName="Futura%20Maxi%20Demi" fontSize="36" charSpace="0" lineSpace="0" catID="3"><![CDATA[Your%20Score%3A%20%24value%24]]></string>
+  <string id="id_ui_win_button_playagain" fontName="Futura%20Maxi%20Bold" fontSize="20" charSpace="0" lineSpace="0" catID="3"><![CDATA[Play%20Again]]></string>
+  <string id="id_ui_lose_title" fontName="Futura%20Maxi%20Demi" fontSize="65" charSpace="0" lineSpace="0" catID="4"><![CDATA[You%20Lose%21]]></string>
+  <string id="id_ui_lose_score" fontName="Futura%20Maxi%20Demi" fontSize="36" charSpace="0" lineSpace="0" catID="4"><![CDATA[Your%20Score%3A%20%24value%24]]></string>
+  <string id="id_ui_lose_button_tryagain" fontName="Futura%20Maxi%20Bold" fontSize="20" charSpace="0" lineSpace="4" catID="4"><![CDATA[Play%20Again]]></string>
+  <string id="id_ui_hud_button_menu" fontName="Futura%20Maxi%20Bold" fontSize="18" charSpace="0" lineSpace="0" catID="5"><![CDATA[%3F]]></string>
+  <string id="id_ui_hud_score" fontName="Futura%20Maxi%20Bold" fontSize="18" charSpace="0" lineSpace="0" catID="5"><![CDATA[Score%3A%20%24value%24]]></string>
+  <string id="id_ui_hud_life" fontName="Futura%20Maxi%20Bold" fontSize="18" charSpace="0" lineSpace="0" catID="5"><![CDATA[Lives%3A%20%24value%24]]></string>
+  <string id="id_ui_hud_coins_collected" fontName="Futura%20Maxi%20Bold" fontSize="18" charSpace="0" lineSpace="0" catID="5"><![CDATA[Coins%3A%20%24value%24]]></string>
+  <string id="id_ui_hud_coins_left" fontName="Futura%20Maxi%20Bold" fontSize="18" charSpace="0" lineSpace="0" catID="5"><![CDATA[Coins%20Left%3A%20%24value%24]]></string>
+  <string id="id_ui_hud_opponents_left" fontName="Futura%20Maxi%20Bold" fontSize="16" charSpace="0" lineSpace="0" catID="5"><![CDATA[Enemies%20Left%3A%20%24value%24]]></string>
+  <string id="id_ui_popup_menu_title" fontName="Futura%20Maxi%20Bold" fontSize="30" charSpace="0" lineSpace="0" catID="6"><![CDATA[Menu]]></string>
+  <string id="id_ui_popup_menu_button_resume" fontName="Futura%20Maxi%20Bold" fontSize="16" charSpace="0" lineSpace="0" catID="6"><![CDATA[Resume]]></string>
+  <string id="id_ui_popup_menu_button_restart" fontName="Futura%20Maxi%20Bold" fontSize="16" charSpace="0" lineSpace="0" catID="6"><![CDATA[Restart%20Level]]></string>
+  <string id="id_ui_popup_menu_button_howtoplay" fontName="Futura%20Maxi%20Bold" fontSize="16" charSpace="0" lineSpace="0" catID="6"><![CDATA[How%20to%20Play]]></string>
+  <string id="id_ui_popup_menu_button_quit_game" fontName="Futura%20Maxi%20Bold" fontSize="16" charSpace="0" lineSpace="0" catID="6"><![CDATA[Quit]]></string>
+  <string id="id_ui_popup_menu_button_quit_builder" fontName="Futura%20Maxi%20Bold" fontSize="16" charSpace="0" lineSpace="0" catID="6"><![CDATA[Back%20to%20Builder]]></string>
+  <string id="id_ui_popup_quit_title_game" fontName="Futura%20Maxi%20Bold" fontSize="30" charSpace="0" lineSpace="0" catID="7"><![CDATA[Quit]]></string>
+  <string id="id_ui_popup_quit_text_game" fontName="Futura%20Maxi%20Demi" fontSize="18" charSpace="0" lineSpace="0" catID="7"><![CDATA[Are%20you%20sure%20you%20want%20to%20quit%3F]]></string>
+  <string id="id_ui_popup_quit_title_builder" fontName="Futura%20Maxi%20Bold" fontSize="30" charSpace="0" lineSpace="0" catID="7"><![CDATA[Back%20to%20Builder]]></string>
+  <string id="id_ui_popup_quit_text_builder" fontName="Futura%20Maxi%20Demi" fontSize="18" charSpace="0" lineSpace="0" catID="7"><![CDATA[Are%20you%20sure%20you%20want%20to%20go%20back%20to%20the%20builder%3F]]></string>
+  <string id="id_ui_popup_quit_button_yes" fontName="Futura%20Maxi%20Bold" fontSize="18" charSpace="0" lineSpace="0" catID="7"><![CDATA[Yes]]></string>
+  <string id="id_ui_popup_quit_button_no" fontName="Futura%20Maxi%20Bold" fontSize="18" charSpace="0" lineSpace="0" catID="7"><![CDATA[No]]></string>
+  <string id="id_ui_step_background_title1" fontName="Futura%20Maxi%20Demi" fontSize="28" charSpace="0" lineSpace="0" catID="9"><![CDATA[World]]></string>
+  <string id="id_ui_step_background_title2" fontName="Futura%20Maxi%20Demi" fontSize="12" charSpace="0" lineSpace="0" catID="9"><![CDATA[Choose%20Your%20World]]></string>
+  <string id="id_ui_step_background_button" fontName="Futura%20Maxi%20Bold" fontSize="18" charSpace="0" lineSpace="0" catID="9"><![CDATA[World]]></string>
+  <string id="id_ui_step_layout_title1" fontName="Futura%20Maxi%20Demi" fontSize="28" charSpace="0" lineSpace="0" catID="10"><![CDATA[Level]]></string>
+  <string id="id_ui_step_layout_title2" fontName="Futura%20Maxi%20Demi" fontSize="12" charSpace="0" lineSpace="0" catID="10"><![CDATA[Choose%20Your%20Level]]></string>
+  <string id="id_ui_step_layout_button" fontName="Futura%20Maxi%20Bold" fontSize="18" charSpace="0" lineSpace="0" catID="10"><![CDATA[Level]]></string>
+  <string id="id_ui_step_layout_confirmTitle" fontName="Futura%20Maxi%20Demi" fontSize="25" charSpace="0" lineSpace="0" catID="10"><![CDATA[Wait%21]]></string>
+  <string id="id_ui_step_layout_confirmText" fontName="Futura%20Maxi%20Demi" fontSize="18" charSpace="0" lineSpace="0" catID="10"><![CDATA[Changing%20your%20level%20layout%20will%20erase%20your%20current%20work%21%20%3Cbr%3E%3Cbr%3EAre%20you%20sure%20you%20want%20to%20continue%3F]]></string>
+  <string id="id_ui_step_layout_btnConfirm" fontName="Futura%20Maxi%20Bold" fontSize="18" charSpace="0" lineSpace="0" catID="10"><![CDATA[Yes]]></string>
+  <string id="id_ui_step_layout_btnCancel" fontName="Futura%20Maxi%20Bold" fontSize="18" charSpace="0" lineSpace="0" catID="10"><![CDATA[No]]></string>
+  <string id="id_ui_step_hero_title1" fontName="Futura%20Maxi%20Demi" fontSize="28" charSpace="0" lineSpace="0" catID="11"><![CDATA[Hero]]></string>
+  <string id="id_ui_step_hero_title2" fontName="Futura%20Maxi%20Demi" fontSize="12" charSpace="0" lineSpace="0" catID="11"><![CDATA[Choose%20Your%20Hero]]></string>
+  <string id="id_ui_step_hero_button" fontName="Futura%20Maxi%20Bold" fontSize="18" charSpace="0" lineSpace="0" catID="11"><![CDATA[Hero]]></string>
+  <string id="id_ui_step_goal_title1" fontName="Futura%20Maxi%20Demi" fontSize="28" charSpace="0" lineSpace="0" catID="12"><![CDATA[Goal]]></string>
+  <string id="id_ui_step_goal_title2" fontName="Futura%20Maxi%20Demi" fontSize="12" charSpace="0" lineSpace="0" catID="12"><![CDATA[Choose%20Your%20Goal]]></string>
+  <string id="id_ui_step_goal_button" fontName="Futura%20Maxi%20Bold" fontSize="18" charSpace="0" lineSpace="0" catID="12"><![CDATA[Goal]]></string>
+  <string id="id_ui_step_music_title1" fontName="Futura%20Maxi%20Demi" fontSize="28" charSpace="0" lineSpace="0" catID="13"><![CDATA[Music]]></string>
+  <string id="id_ui_step_music_title2" fontName="Futura%20Maxi%20Demi" fontSize="12" charSpace="0" lineSpace="0" catID="13"><![CDATA[Choose%20Your%20Music]]></string>
+  <string id="id_ui_step_music_id" fontName="Futura%20Maxi%20Bold" fontSize="20" charSpace="0" lineSpace="0" catID="13"><![CDATA[%24value%24]]></string>
+  <string id="id_ui_step_music_button" fontName="Futura%20Maxi%20Bold" fontSize="18" charSpace="0" lineSpace="0" catID="13"><![CDATA[Music]]></string>
+  <string id="id_ui_step_builder_title1" fontName="Futura%20Maxi%20Demi" fontSize="28" charSpace="0" lineSpace="0" catID="14"><![CDATA[Builder]]></string>
+  <string id="id_ui_step_builder_title2" fontName="Futura%20Maxi%20Demi" fontSize="12" charSpace="0" lineSpace="0" catID="14"><![CDATA[Continue%20Building%20Your%20Game]]></string>
+  <string id="id_ui_step_builder_button" fontName="Futura%20Maxi%20Bold" fontSize="18" charSpace="0" lineSpace="0" catID="14"><![CDATA[Builder]]></string>
+  <string id="id_ui_step_builder_savePopup_title" fontName="Futura%20Maxi%20Demi" fontSize="16" charSpace="0" lineSpace="0" catID="25"><![CDATA[Choose%20Your%20Game%20Title]]></string>
+  <string id="id_ui_step_builder_savePopup_gameTitle" fontName="Futura%20Maxi%20Demi" fontSize="16" charSpace="0" lineSpace="0" catID="25"><![CDATA[%24value%24]]></string>
+  <string id="id_ui_step_builder_savePopup_errorTooLong" fontName="Futura%20Maxi%20Demi" fontSize="16" charSpace="0" lineSpace="0" catID="25"><![CDATA[Your%20game%20title%20must%20be%20under%20%24value%24%20characters.]]></string>
+  <string id="id_ui_step_builder_savePopup_confirm" fontName="Futura%20Maxi%20Bold" fontSize="16" charSpace="0" lineSpace="0" catID="14"><![CDATA[Save]]></string>
+  <string id="id_ui_step_builder_savePopup_cancel" fontName="Futura%20Maxi%20Bold" fontSize="16" charSpace="0" lineSpace="0" catID="14"><![CDATA[Cancel]]></string>
+  <string id="id_ui_step_builder_savePopup_confirmTitle" fontName="Futura%20Maxi%20Bold" fontSize="16" charSpace="0" lineSpace="0" catID="14"><![CDATA[Save%20Complete%21]]></string>
+  <string id="id_ui_step_builder_savePopup_confirmText" fontName="Futura%20Maxi%20Bold" fontSize="16" charSpace="0" lineSpace="0" catID="14"><![CDATA[Your%20game%20has%20been%20saved%20successfully%21]]></string>
+  <string id="id_ui_step_play_button" fontName="Futura%20Maxi%20Bold" fontSize="18" charSpace="0" lineSpace="0" catID="15"><![CDATA[Test%20It]]></string>
+  <string id="id_ui_step_play_win_confirmTitle" fontName="Futura%20Maxi%20Demi" fontSize="25" charSpace="0" lineSpace="0" catID="15"><![CDATA[Game%20Completed%21]]></string>
+  <string id="id_ui_step_play_win_confirmText" fontName="Futura%20Maxi%20Demi" fontSize="18" charSpace="0" lineSpace="0" catID="15"><![CDATA[Would%20you%20like%20to%20Send%20to%20Nick%20or%20go%20back%20and%20make%20some%20changes%3F]]></string>
+  <string id="id_ui_step_play_win_btnConfirm" fontName="Futura%20Maxi%20Bold" fontSize="16" charSpace="0" lineSpace="0" catID="15"><![CDATA[Send%20to%20Nick]]></string>
+  <string id="id_ui_step_play_win_btnCancel" fontName="Futura%20Maxi%20Bold" fontSize="16" charSpace="0" lineSpace="0" catID="15"><![CDATA[Back%20to%20Builder]]></string>
+  <string id="id_ui_step_play_lose_confirmTitle" fontName="Futura%20Maxi%20Demi" fontSize="25" charSpace="0" lineSpace="0" catID="15"><![CDATA[Game%20Failed%21]]></string>
+  <string id="id_ui_step_play_lose_confirmText" fontName="Futura%20Maxi%20Demi" fontSize="18" charSpace="0" lineSpace="0" catID="15"><![CDATA[You%20need%20to%20win%20your%20game%20in%20order%20to%20Send%20to%20Nick.%20%3Cbr%3E%3Cbr%3EWould%20you%20like%20to%20try%20again%20or%20make%20some%20changes%20to%20the%20game%3F]]></string>
+  <string id="id_ui_step_play_lose_btnConfirm" fontName="Futura%20Maxi%20Bold" fontSize="16" charSpace="0" lineSpace="0" catID="15"><![CDATA[Play%20Again]]></string>
+  <string id="id_ui_step_play_lose_btnCancel" fontName="Futura%20Maxi%20Bold" fontSize="16" charSpace="0" lineSpace="0" catID="15"><![CDATA[Back%20to%20Builder]]></string>
+  <string id="id_ui_step_play_invalidGameConfirmTitle" fontName="Futura%20Maxi%20Demi" fontSize="25" charSpace="0" lineSpace="0" catID="15"><![CDATA[Wait%21]]></string>
+  <string id="id_ui_step_play_invalidGameConfirmText_coin" fontName="Futura%20Maxi%20Demi" fontSize="16" charSpace="0" lineSpace="0" catID="15"><![CDATA[You%20need%20at%20least%20one%20coin%20in%20your%20game%20in%20order%20to%20make%20it%20winnable.%20%3Cbr%3EDo%20you%20want%20to%20play%20it%20anyway%3F]]></string>
+  <string id="id_ui_step_play_invalidGameConfirmText_opponent" fontName="Futura%20Maxi%20Demi" fontSize="16" charSpace="0" lineSpace="0" catID="15"><![CDATA[You%20need%20at%20least%20one%20bad%20guy%20in%20your%20game%20in%20order%20to%20make%20it%20winnable.%20%3Cbr%3EDo%20you%20want%20to%20play%20it%20anyway%3F]]></string>
+  <string id="id_ui_step_play_invalidGame_btnConfirm" fontName="Futura%20Maxi%20Bold" fontSize="16" charSpace="0" lineSpace="0" catID="15"><![CDATA[Yes]]></string>
+  <string id="id_ui_step_play_invalidGame_btnCancel" fontName="Futura%20Maxi%20Bold" fontSize="16" charSpace="0" lineSpace="0" catID="15"><![CDATA[No]]></string>
+  <string id="id_ui_step_publish_title1" fontName="Futura%20Maxi%20Demi" fontSize="27" charSpace="0" lineSpace="0" catID="16"><![CDATA[Send%20to%20Nick]]></string>
+  <string id="id_ui_step_publish_title2" fontName="Futura%20Maxi%20Demi" fontSize="12" charSpace="0" lineSpace="0" catID="16"><![CDATA[Choose%20Your%20Game%20Title]]></string>
+  <string id="id_ui_step_publish_button" fontName="Futura%20Maxi%20Demi" fontSize="13" charSpace="0" lineSpace="0" catID="16"><![CDATA[Send%20to]]></string>
+  <string id="id_ui_global_stepID" fontName="Futura%20Maxi%20Demi" fontSize="16" charSpace="0" lineSpace="0" catID="17"><![CDATA[%24value%24]]></string>
+  <string id="id_ui_global_stepTitle" fontName="Futura%20Maxi%20Demi" fontSize="14" charSpace="0" lineSpace="0" catID="17"><![CDATA[Step%20%24value%24]]></string>
+  <string id="id_ui_global_btnNext" fontName="Futura%20Maxi%20Demi" fontSize="14" charSpace="0" lineSpace="0" catID="17"><![CDATA[Next%20Step]]></string>
+  <string id="id_ui_category_enemy" fontName="Futura%20Maxi%20Demi" fontSize="15" charSpace="0" lineSpace="0" catID="18"><![CDATA[Enemies]]></string>
+  <string id="id_ui_category_tiles" fontName="Futura%20Maxi%20Demi" fontSize="15" charSpace="0" lineSpace="0" catID="18"><![CDATA[Floors%20%26%20Walls]]></string>
+  <string id="id_ui_category_collectables" fontName="Futura%20Maxi%20Demi" fontSize="15" charSpace="0" lineSpace="0" catID="18"><![CDATA[Bonuses]]></string>
+  <string id="id_ui_category_props" fontName="Futura%20Maxi%20Demi" fontSize="15" charSpace="0" lineSpace="0" catID="18"><![CDATA[Objects]]></string>
+  <string id="id_ui_goal_opponent" fontName="Futura%20Maxi%20Demi" fontSize="18" charSpace="0" lineSpace="0" catID="19"><![CDATA[Defeat%20All%20Enemies%21]]></string>
+  <string id="id_ui_goal_coin" fontName="Futura%20Maxi%20Demi" fontSize="18" charSpace="0" lineSpace="0" catID="19"><![CDATA[Collect%20Them%20All%21]]></string>
+  <string id="id_ui_goal_door" fontName="Futura%20Maxi%20Demi" fontSize="18" charSpace="0" lineSpace="0" catID="19"><![CDATA[Reach%20the%20Door%21]]></string>
+  <string id="id_ui_loading_loading" fontName="Futura%20Maxi%20Demi" fontSize="25" charSpace="0" lineSpace="0" catID="0"><![CDATA[Loading]]></string>
+  <string id="id_ui_loading_save" fontName="Futura%20Maxi%20Demi" fontSize="25" charSpace="0" lineSpace="0" catID="0"><![CDATA[Saving]]></string>
+  <string id="id_ui_error_title" fontName="Futura%20Maxi%20Demi" fontSize="32" charSpace="0" lineSpace="0" catID="20"><![CDATA[Oops%21]]></string>
+  <string id="id_ui_error_loading" fontName="Futura%20Maxi%20Demi" fontSize="15" charSpace="0" lineSpace="0" catID="20"><![CDATA[An%20error%20occured%2C%20come%20back%20later.%3Cbr%3E%24value%24]]></string>
+  <string id="id_ui_error_noTitle" fontName="Futura%20Maxi%20Demi" fontSize="20" charSpace="0" lineSpace="0" catID="20"><![CDATA[That%20game%20need%20a%20title.%3Cbr%3EEnter%20one%20before%20submitting%20it%21]]></string>
+  <string id="id_ui_error_badTitle" fontName="Futura%20Maxi%20Demi" fontSize="20" charSpace="0" lineSpace="0" catID="20"><![CDATA[Please%20choose%20a%20more%20decent%20title%20for%20your%20game.]]></string>
+  <string id="id_ui_error_canotLogin" fontName="Futura%20Maxi%20Demi" fontSize="20" charSpace="0" lineSpace="0" catID="20"><![CDATA[You%20need%20to%20login%20to%20save%20your%20game.]]></string>
+  <string id="id_ui_error_noRoom" fontName="Futura%20Maxi%20Demi" fontSize="20" charSpace="0" lineSpace="0" catID="20"><![CDATA[You%20don%27t%20have%20any%20slot%20left%20to%20save%20your%20game.%20Delete%20or%20publish%20a%20game%20to%20save.]]></string>
+  <string id="id_ui_error_canotSave" fontName="Futura%20Maxi%20Demi" fontSize="20" charSpace="0" lineSpace="0" catID="20"><![CDATA[Canot%20save%2C%20try%20again%20later.]]></string>
+  <string id="id_ui_error_btnOk" fontName="Futura%20Maxi%20Bold" fontSize="18" charSpace="0" lineSpace="0" catID="20"><![CDATA[Okay]]></string>
+  <string id="id_ui_loadGamePopup_titleSave" fontName="Futura%20Maxi%20Demi" fontSize="16" charSpace="0" lineSpace="0" catID="21"><![CDATA[Load%20Game%20%3Cbr%3EWanna%20save%20first%3F]]></string>
+  <string id="id_ui_loadGamePopup_titleReset" fontName="Futura%20Maxi%20Demi" fontSize="16" charSpace="0" lineSpace="0" catID="21"><![CDATA[Go%20back%20to%20your%20last%20save%3F]]></string>
+  <string id="id_ui_loadGamePopup_titleNoSave" fontName="Futura%20Maxi%20Demi" fontSize="16" charSpace="0" lineSpace="0" catID="21"><![CDATA[Load%20Game%3F]]></string>
+  <string id="id_ui_loadGamePopup_btnYes" fontName="Futura%20Maxi%20Bold" fontSize="16" charSpace="0" lineSpace="0" catID="21"><![CDATA[Yes]]></string>
+  <string id="id_ui_loadGamePopup_btnNo" fontName="Futura%20Maxi%20Bold" fontSize="16" charSpace="0" lineSpace="0" catID="21"><![CDATA[No]]></string>
+  <string id="id_ui_loadGamePopup_btnCancel" fontName="Futura%20Maxi%20Bold" fontSize="16" charSpace="0" lineSpace="0" catID="21"><![CDATA[Cancel]]></string>
+  <string id="id_tutorialBuilder_backgroundTitle" fontName="Futura%20Maxi%20Demi" fontSize="20" charSpace="0" lineSpace="0" catID="22"><![CDATA[Step%201%20-%20World]]></string>
+  <string id="id_tutorialBuilder_backgroundText" fontName="Futura%20Maxi%20Demi" fontSize="18" charSpace="0" lineSpace="0" catID="22"><![CDATA[Which%20world%20do%20you%20want%20to%20play%20in%3F]]></string>
+  <string id="id_tutorialBuilder_layoutTitle" fontName="Futura%20Maxi%20Demi" fontSize="20" charSpace="0" lineSpace="0" catID="22"><![CDATA[Step%202%20-%20Level]]></string>
+  <string id="id_tutorialBuilder_layoutText" fontName="Futura%20Maxi%20Demi" fontSize="18" charSpace="0" lineSpace="0" catID="22"><![CDATA[Pick%20a%20base%20level%3Cbr%3Efor%20your%20world.]]></string>
+  <string id="id_tutorialBuilder_heroTitle" fontName="Futura%20Maxi%20Demi" fontSize="20" charSpace="0" lineSpace="0" catID="22"><![CDATA[Step%203%20-%20Hero]]></string>
+  <string id="id_tutorialBuilder_heroText" fontName="Futura%20Maxi%20Demi" fontSize="18" charSpace="0" lineSpace="0" catID="22"><![CDATA[Pick%20the%20character%20you%20want%20to%20play%20as.]]></string>
+  <string id="id_tutorialBuilder_goalTitle" fontName="Futura%20Maxi%20Demi" fontSize="20" charSpace="0" lineSpace="0" catID="22"><![CDATA[Step%205%20-%20Goal]]></string>
+  <string id="id_tutorialBuilder_goalText" fontName="Futura%20Maxi%20Demi" fontSize="14" charSpace="0" lineSpace="0" catID="22"><![CDATA[What%20is%20the%20point%20%3Cbr%3Eof%20your%20game%3F%20%3Cbr%3E%3Cbr%3ESelect%20your%20objective%21]]></string>
+  <string id="id_tutorialBuilder_musicTitle" fontName="Futura%20Maxi%20Demi" fontSize="20" charSpace="0" lineSpace="0" catID="22"><![CDATA[Step%204%20-%20Music]]></string>
+  <string id="id_tutorialBuilder_musicText" fontName="Futura%20Maxi%20Demi" fontSize="14" charSpace="0" lineSpace="0" catID="22"><![CDATA[Select%20the%20music%20you%20want%20to%20hear%20when%20playing%20your%20game.]]></string>
+  <string id="id_tutorialBuilder_builderTitle" fontName="Futura%20Maxi%20Demi" fontSize="20" charSpace="0" lineSpace="0" catID="22"><![CDATA[Step%206%20-%20Builder]]></string>
+  <string id="id_tutorialBuilder_builderText" fontName="Futura%20Maxi%20Demi" fontSize="16" charSpace="0" lineSpace="0" catID="22"><![CDATA[Click%20here%20to%20select%20elements%20that%20you%20want%20to%20drag%20to%20your%20game.]]></string>
+  <string id="id_tutorialBuilder_publishTitle" fontName="Futura%20Maxi%20Demi" fontSize="20" charSpace="0" lineSpace="0" catID="22"><![CDATA[Step%208%20-%20Send%20to%20Nick]]></string>
+  <string id="id_tutorialBuilder_publishText" fontName="Futura%20Maxi%20Demi" fontSize="16" charSpace="0" lineSpace="0" catID="22"><![CDATA[Now%20you%20can%20send%20your%20game%20to%20Nick.com%20so%20everybody%20can%20play%20it%21]]></string>
+  <string id="id_tutorialBuilder_NextStep" fontName="Futura%20Maxi%20Demi" fontSize="16" charSpace="0" lineSpace="0" catID="22"><![CDATA[When%20your%20choice%20is%20made%2C%20click%20the%20Next%20Step%20button.]]></string>
+  <string id="id_tutorialBuilder_builderNextStep" fontName="Futura%20Maxi%20Demi" fontSize="16" charSpace="0" lineSpace="0" catID="22"><![CDATA[When%20you%27re%20done%2C%20click%20this%20button%20to%20Test%20your%20game.]]></string>
+  <string id="id_how_to_play_movement_title" fontName="Futura%20Maxi%20Bold" fontSize="20" charSpace="0" lineSpace="0" catID="2"><![CDATA[Movement]]></string>
+  <string id="id_how_to_play_movement_move" fontName="Futura%20Maxi%20Bold" fontSize="16" charSpace="0" lineSpace="0" catID="2"><![CDATA[Move]]></string>
+  <string id="id_how_to_play_movement_sprint" fontName="Futura%20Maxi%20Bold" fontSize="16" charSpace="0" lineSpace="0" catID="2"><![CDATA[Sprint]]></string>
+  <string id="id_how_to_play_movement_jump" fontName="Futura%20Maxi%20Bold" fontSize="16" charSpace="0" lineSpace="0" catID="2"><![CDATA[Jump]]></string>
+  <string id="id_how_to_play_movement_spacebar" fontName="Futura%20Maxi%20Bold" fontSize="16" charSpace="0" lineSpace="0" catID="2"><![CDATA[SPACEBAR]]></string>
+  <string id="id_how_to_play_movement_crouch" fontName="Futura%20Maxi%20Bold" fontSize="16" charSpace="0" lineSpace="0" catID="2"><![CDATA[Crouch]]></string>
+  <string id="id_how_to_play_coinForLife" fontName="Futura%20Maxi%20Bold" fontSize="40" charSpace="0" lineSpace="0" catID="2"><![CDATA[x%20%24value%24]]></string>
+  <string id="id_how_to_play_lifeUp" fontName="Futura%20Maxi%20Bold" fontSize="20" charSpace="0" lineSpace="0" catID="2"><![CDATA[1UP]]></string>
+  <string id="id_how_to_play_goal_title" fontName="Futura%20Maxi%20Bold" fontSize="20" charSpace="0" lineSpace="0" catID="2"><![CDATA[To%20Win]]></string>
+  <string id="id_how_to_play_goal_door" fontName="Futura%20Maxi%20Bold" fontSize="16" charSpace="0" lineSpace="0" catID="2"><![CDATA[Reach%20the%20door.]]></string>
+  <string id="id_how_to_play_goal_opponent" fontName="Futura%20Maxi%20Bold" fontSize="16" charSpace="0" lineSpace="0" catID="2"><![CDATA[Defeat%20all%20enemies%20in%20the%20level.]]></string>
+  <string id="id_how_to_play_goal_coins" fontName="Futura%20Maxi%20Bold" fontSize="16" charSpace="0" lineSpace="0" catID="2"><![CDATA[Find%20and%20collect%20every%20coin%20in%20the%20level.]]></string>
+  <string id="id_how_to_play_watchOut_title" fontName="Futura%20Maxi%20Bold" fontSize="20" charSpace="0" lineSpace="0" catID="2"><![CDATA[Watch%20Out%21]]></string>
+  <string id="id_tutorialBuilder_publishNextStep" fontName="Futura%20Maxi%20Demi" fontSize="16" charSpace="0" lineSpace="0" catID="22"><![CDATA[Chose%20a%20cool%20title%20and%20click%20Publish.]]></string>
+  <string id="id_tooltip_goal_door" fontName="Futura%20Maxi%20Demi" fontSize="16" charSpace="0" lineSpace="0" catID="23"><![CDATA[Reach%20the%20door.]]></string>
+  <string id="id_tooltip_goal_coins" fontName="Futura%20Maxi%20Demi" fontSize="16" charSpace="0" lineSpace="0" catID="23"><![CDATA[Find%20and%20collect%20every%20coin%20in%20the%20level.]]></string>
+  <string id="id_tooltip_goal_opponents" fontName="Futura%20Maxi%20Demi" fontSize="16" charSpace="0" lineSpace="0" catID="23"><![CDATA[Defeat%20all%20enemies%20in%20the%20level.]]></string>
+  <string id="id_tooltip_btnSave" fontName="Futura%20Maxi%20Demi" fontSize="16" charSpace="0" lineSpace="0" catID="23"><![CDATA[Save]]></string>
+  <string id="id_tooltip_btnErase" fontName="Futura%20Maxi%20Demi" fontSize="16" charSpace="0" lineSpace="0" catID="23"><![CDATA[Eraser]]></string>
+  <string id="id_tooltip_btnMove" fontName="Futura%20Maxi%20Demi" fontSize="16" charSpace="0" lineSpace="0" catID="23"><![CDATA[Move]]></string>
+  <string id="id_tooltip_btnZoom" fontName="Futura%20Maxi%20Demi" fontSize="16" charSpace="0" lineSpace="0" catID="23"><![CDATA[Zoom]]></string>
+  <string id="id_tooltip_gameObject_bonusCoin" fontName="Futura%20Maxi%20Demi" fontSize="16" charSpace="0" lineSpace="0" catID="23"><![CDATA[Coin%3A%20Collect%20100%20to%20gain%20an%20extra%20life.]]></string>
+  <string id="id_tooltip_gameObject_bonusExtraLife" fontName="Futura%20Maxi%20Demi" fontSize="16" charSpace="0" lineSpace="0" catID="23"><![CDATA[Extra%20Life]]></string>
+  <string id="id_tooltip_gameObject_bonusInvincibility" fontName="Futura%20Maxi%20Demi" fontSize="16" charSpace="0" lineSpace="0" catID="23"><![CDATA[Invincibility%3A%20Collect%20it%20and%20your%20hero%20will%20be%20invincible%20for%20a%20short%20time.]]></string>
+  <string id="id_tooltip_gameObject_opponentJumper" fontName="Futura%20Maxi%20Demi" fontSize="16" charSpace="0" lineSpace="0" catID="23"><![CDATA[Jumper%20Enemy%3A%20This%20enemy%20never%20stops%20jumping.]]></string>
+  <string id="id_tooltip_gameObject_opponentShooter" fontName="Futura%20Maxi%20Demi" fontSize="16" charSpace="0" lineSpace="0" catID="23"><![CDATA[Cannon%20Enemy%3A%20This%20enemy%20shoots%20projectiles.]]></string>
+  <string id="id_tooltip_gameObject_opponentWalker" fontName="Futura%20Maxi%20Demi" fontSize="16" charSpace="0" lineSpace="0" catID="23"><![CDATA[Walker%20Enemy%3A%20This%20enemy%20walks%20in%20a%20straight%20line.]]></string>
+  <string id="id_tooltip_gameObject_platformObject" fontName="Futura%20Maxi%20Demi" fontSize="16" charSpace="0" lineSpace="0" catID="23"><![CDATA[Decorative%20Platforms%3A%20The%20hero%20can%20jump%20through%20these%20and%20walk%20on%20them.]]></string>
+  <string id="id_tooltip_gameObject_props" fontName="Futura%20Maxi%20Demi" fontSize="16" charSpace="0" lineSpace="0" catID="23"><![CDATA[Decorative%20elements%20to%20brighten%20up%20your%20level.]]></string>
+  <string id="id_tooltip_gameObject_tileFatal" fontName="Futura%20Maxi%20Demi" fontSize="16" charSpace="0" lineSpace="0" catID="23"><![CDATA[Hazard%20Blocks%3A%20If%20the%20hero%20touches%20a%20hazard%2C%20he%20loses%20a%20life.]]></string>
+  <string id="id_tooltip_gameObject_tilePlatform" fontName="Futura%20Maxi%20Demi" fontSize="16" charSpace="0" lineSpace="0" catID="23"><![CDATA[Platform%20Blocks%3A%20The%20hero%20can%20jump%20up%20through%20these%20platforms%20and%20walk%20on%20them.]]></string>
+  <string id="id_tooltip_gameObject_tileSlippery" fontName="Futura%20Maxi%20Demi" fontSize="16" charSpace="0" lineSpace="0" catID="23"><![CDATA[Slippery%20Blocks%3A%20The%20hero%20will%20slip%20on%20these%20blocks.]]></string>
+  <string id="id_tooltip_gameObject_tileSurface" fontName="Futura%20Maxi%20Demi" fontSize="16" charSpace="0" lineSpace="0" catID="23"><![CDATA[Basic%20Blocks]]></string>
+  <string id="id_step_publish_btnPublish" fontName="Futura%20Maxi%20Demi" fontSize="16" charSpace="0" lineSpace="0" catID="16"><![CDATA[Publish]]></string>
+  <string id="id_step_publish_succeedTitle" fontName="Futura%20Maxi%20Demi" fontSize="20" charSpace="0" lineSpace="0" catID="16"><![CDATA[Congratulations%21]]></string>
+  <string id="id_step_publish_succeedText" fontName="Futura%20Maxi%20Demi" fontSize="18" charSpace="0" lineSpace="0" catID="16"><![CDATA[You%20have%20published%20your%20game.%20It%20will%20show%20up%20on%20Nick.com%20soon%21]]></string>
+  <string id="id_loading_publish" fontName="Futura%20Maxi%20Demi" fontSize="20" charSpace="0" lineSpace="0" catID="0"><![CDATA[Sending%20to%20Nick]]></string>
+  <string id="id_tutorialBuilder_builderNextTip" fontName="Futura%20Maxi%20Demi" fontSize="16" charSpace="0" lineSpace="0" catID="22"><![CDATA[Tip%3A%20Use%20the%20arrow%20keys%20to%20move%20around%20the%20screen%20to%20make%20your%20game%20bigger.]]></string>
+  <string id="id_tooltip_btnGotoHero" fontName="Futura%20Maxi%20Demi" fontSize="16" charSpace="0" lineSpace="0" catID="23"><![CDATA[Go%20to%20Hero]]></string>
+  <string id="id_ui_popup_menu_button_restart2" fontName="Futura%20Maxi%20Bold" fontSize="14" charSpace="0" lineSpace="0" catID="6"><![CDATA[and%20lose%20a%20life]]></string>
+  <string id="id_step_publish_btnNext" fontName="Futura%20Maxi%20Demi" fontSize="15" charSpace="0" lineSpace="0" catID="16"><![CDATA[Create%20another%20game]]></string>
+  <string id="id_ui_step_builder_savePopup_title" fontName="Futura%20Maxi%20Bold" fontSize="18" charSpace="0" lineSpace="0" catID="14"><![CDATA[Enter%20a%20name%20for%20your%20game.]]></string>
+  <categories>
+    <category id="0">Loading</category>
+    <category id="1">Title</category>
+    <category id="2">How_to_play</category>
+    <category id="3">Win</category>
+    <category id="4">Lose</category>
+    <category id="5">Hud</category>
+    <category id="6">Popup_menu</category>
+    <category id="7">Popup_quit</category>
+    <category id="9">Step_background</category>
+    <category id="10">Step_layout</category>
+    <category id="11">Step_hero</category>
+    <category id="12">Step_goal</category>
+    <category id="13">Step_music</category>
+    <category id="14">Step_builder</category>
+    <category id="15">Step_play</category>
+    <category id="16">Step_publish</category>
+    <category id="17">Global%20UI</category>
+    <category id="18">Category%20title</category>
+    <category id="19">Goal%20type</category>
+    <category id="20">Error</category>
+    <category id="21">Load%20game%20popup</category>
+    <category id="22">TutorialBuilder</category>
+    <category id="23">Tooltip</category>
+  </categories>
+</strings>

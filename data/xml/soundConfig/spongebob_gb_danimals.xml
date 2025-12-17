@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soundlist>
+	<!-- Player -->
+	<sound id="sndPlayerJump" 				volume="1" loop="1" classname="character_jump" />
+	<sound id="sndPlayerDoubleJump" 		volume="1" loop="1" classname="character_doubleJump" />
+	<sound id="sndPlayerStomp" 				volume="1" loop="1" classname="clamShellHit" />
+	<sound id="sndPlayerLand"				volume="1" loop="1" classname="character_land" />
+	<sound id="sndPlayerCling" 				volume="1" loop="1" classname="character_cling" />
+	<sound id="sndPlayerCrouch" 			volume="1" loop="1" classname="character_crouch" />
+	<sound id="sndPlayerDie"				volume="1" loop="1" classname="character_die" />
+	<sound id="sndPlayerRespawn"			volume="1" loop="1" classname="character_respawn" />
+	<sound id="sndPlayerRun"				volume="1" loop="1" classname="character_run01,character_run02,character_run03,character_run04,character_run05, character_run06, character_run07, character_run08, character_run09"/>
+	<sound id="sndPlayerSlide"				volume="1" loop="1" classname="character_slide" />
+	<sound id="sndPlayerInvinsibility" 		volume="1" loop="0" classname="invincible" />
+	<sound id="sndPlayerInvinsibilityTick"	volume="1" loop="0" classname="tick_invincible" />
+	
+	<!-- Collectables -->
+	<sound id="sndCollectableGoal" 			volume="1" loop="1" classname="goal" />
+	<sound id="sndCollectableCoin" 			volume="1" loop="1" classname="coin" />
+	<sound id="sndCollectableLife" 			volume="1" loop="1" classname="lifeup" />
+	
+	<!-- Opponent walker -->
+	<sound id="sndWalkerLand" 				volume="1" loop="1" classname="walker_land" />
+	<sound id="sndWalkerDie" 				volume="1" loop="1" classname="walker_die" />
+	
+	<!-- Opponent shooter -->
+	<sound id="sndShooterShot" 				volume="1" loop="1" classname="shooter_shoot01,shooter_shoot02,shooter_shoot03,shooter_shoot04,shooter_shoot05" />
+	<sound id="sndShooterDie" 				volume="1" loop="1" classname="shooter_die" />
+	<sound id="sndProjectileDestroy"		volume="1" loop="1" classname="projectile_destroy" />
+	
+	<!-- Opponent jumper -->
+	<sound id="sndJumperJump" 				volume="1" loop="1" classname="jumper_jump" />
+	<sound id="sndJumperDie" 				volume="1" loop="1" classname="jumper_die" />
+	
+</soundlist>

@@ -1,0 +1,47 @@
+<proxy>
+	<property name="getBuilderTypes" enabled="true"><![CDATA[/gamestudio/data/getBuilderTypes.jhtml]]></property>
+	<property name="getBuilderTypesByProperty" enabled="true"><![CDATA[/gamestudio/data/getBuilderTypesByProperty.jhtml]]></property>
+	<property name="getProperty" enabled="true"><![CDATA[/gamestudio/data/getProperty.jhtml]]></property>
+	<property name="getPropertyList" enabled="true"><![CDATA[/gamestudio/data/getPropertyList.jhtml]]></property>
+	<property name="getGoalType" enabled="true"><![CDATA[/gamestudio/data/getGoalType.jhtml]]></property>
+	<property name="setPublishedGameImage" enabled="true"><![CDATA[/gamestudio/data/setPublishedGameImage.jhtml]]></property>	
+	
+	<property name="getGameData" enabled="true"><![CDATA[/gamestudio/data/getGameData.jhtml]]></property>
+	<property name="getMedias" enabled="true"><![CDATA[/gamestudio/data/getMedias.jhtml]]></property>
+	<property name="getSavedGames" enabled="true"><![CDATA[/gamestudio/data/getSavedGames.jhtml]]></property>
+	<property name="getTemplates" enabled="true"><![CDATA[/gamestudio/data/getTemplates.jhtml]]></property>
+	<property name="publishGame" enabled="true"><![CDATA[/gamestudio/data/publishGame.jhtml]]></property>
+	<property name="setGameData" enabled="true"><![CDATA[/gamestudio/data/setGameData.jhtml]]></property>	
+	<property name="wordfilter" enabled="true"><![CDATA[/common/wordfilter/]]></property>
+	<property name="phraseChecker" enabled="true"><![CDATA[/common/wordfilter/]]></property>
+	
+	<service name="onGameSaved" enabled="true">
+		<request><![CDATA[onGameSaved]]></request>
+		<response><![CDATA[doResponseEmpty]]></response>
+	</service>
+	
+	<service name="onGamePublished" enabled="true">
+		<request><![CDATA[onGamePublished]]></request>
+		<response><![CDATA[doResponseEmpty]]></response>
+	</service>
+	
+	<service name="onGameCreated" enabled="true">
+		<request><![CDATA[onGameCreated]]></request>
+		<response><![CDATA[doResponseEmpty]]></response>
+	</service>
+	
+	<service name="onGameTested" enabled="true">
+		<request><![CDATA[onGameTested]]></request>
+		<response><![CDATA[doResponseEmpty]]></response>
+	</service>
+	
+	<service name="onGamePublished" enabled="true">
+		<request><![CDATA[onGamePublished]]></request>
+		<response><![CDATA[doResponseEmpty]]></response>
+	</service>
+	
+	<service name="doCheckLoginSwf" enabled="true">
+		<request><![CDATA[doCheckLoginSwf]]></request>
+		<response><![CDATA[doLoginResponse]]></response>
+	</service>
+</proxy>

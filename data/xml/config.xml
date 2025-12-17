@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<property name="media_domain">			<![CDATA[http://localhost:8000]]>		</property>
+	<property name="services_domain">		<![CDATA[http://localhost:8000]]>		</property>
+	<!--<property name="services_domain">		<![CDATA[http://www.nick-d.mtvi.com]]>		</property>-->
+		
+	<!-- UI path (path relative to the application)  -->
+	<property name="asset_path"><![CDATA[assets]]></property>
+	
+	<!-- Media path (path relative to media domain) -->
+	<property name="media_path"><![CDATA[gameBuilder110222/builder/medias]]></property>
+	
+	<!-- Faked service path (remove on release version) -->
+	<property name="fakedService_path"><![CDATA[gameBuilder110222/dev]]></property>
+	
+	<!-- Tracking -->
+	<property name="playCountTrackingFunction"><![CDATA[trackKidsGamePlay]]></property>
+	<property name="playCountTrackingPrefix"><![CDATA[gameBuilder]]></property>
+	
+	<property name="tracking_functionName"><![CDATA[pageNameAppend]]></property>
+	<property name="tracking_callID_playerChange"><![CDATA[Character Clicked - ]]></property>
+	<property name="tracking_callID_save"><![CDATA[Game Saved]]></property>
+	<property name="tracking_callID_publish"><![CDATA[Game Published]]></property>
+	
+	<!-- Proxy (path relative to the application) -->
+	<property name="proxy_url_module"><![CDATA[../ProxyModule.swf]]></property>
+	<property name="proxy_url_props"><![CDATA[../data/xml/props.xml]]></property>
+	
+	<property name="collectionID"><![CDATA[378]]></property>
+	
+	//////////////////////////
+	// GAMEPLAY config data //
+	//////////////////////////
+	
+	<!-- Number of time the player can jump before landing -->
+	<property name="nPLAYER_EXTRA_JUMPS_LIMIT">	<![CDATA[1]]>	</property>
+		
+	<!-- Max Delay for key combos (in frames) -->
+	<property name="nKEY_COMBO_MAX_DELAY">	<![CDATA[40]]>	</property>
+	
+	<!-- Points per Coin collected -->
+	<property name="uPOINTS_COIN">					<![CDATA[10]]>	</property>
+	
+	<!-- Points per Ennemy_Walker killed -->
+	<property name="uPOINT_ENNEMY_WALKER">			<![CDATA[5]]>	</property>
+	
+	<!-- Points per Ennemy_Jumper killed -->
+	<property name="uPOINT_ENNEMY_JUMPER">			<![CDATA[15]]>	</property>
+
+	<!-- Points per Ennemy_Shooter killed -->
+	<property name="uPOINT_ENNEMY_SHOOTER">			<![CDATA[25]]>	</property>	
+	
+</config>

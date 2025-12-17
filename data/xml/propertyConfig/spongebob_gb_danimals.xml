@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	
+	///////////////////////
+	// WORLD PHYS CONFIG //
+	///////////////////////
+	
+	<!-- World's gravity force on Y axis -->
+	<property name="nWORLD_GRAVITY">					<![CDATA[30]]>		</property>
+	
+	////////////////////////
+	// PLAYER PHYS CONFIG //
+	////////////////////////
+	
+	<!-- Player's Mass (in kg) -->
+	<property name="nPLAYER_MASS">						<![CDATA[50]]>		</property>
+	<!-- Player's Friction (coefficient, range [0,1]) -->
+	<property name="nPLAYER_FRICTION">					<![CDATA[0.3]]>		</property>
+	<!-- Player's Restitution (elasticity coefficient, range [0,1] -->
+	<property name="nPLAYER_RESTITUTION">				<![CDATA[0]]>		</property>
+	<!-- Player's Damping (coefficient, range [0,1]) -->
+	<property name="nPLAYER_DAMPING">					<![CDATA[0.8]]>		</property>
+	
+	<!-- Player's Friction on slopes (coefficient, range [0,1]) -->
+	<property name="nPLAYER_FRICTION_ON_SLOPES">		<![CDATA[20]]>		</property>
+	
+	<!-- Player's Jump Impulse (in N/second)-->
+	<property name="nPLAYER_JUMP_IMPULSE">				<![CDATA[1150]]>	</property>
+	<!-- Player's Acceleration coheficient -->
+	<property name="nPLAYER_ACCELERATION">				<![CDATA[1.2]]>		</property>
+	<property name="nPLAYER_ACCELERATION_SLOPPES">		<![CDATA[2]]>	</property>
+	<!-- Player's Walking Speed (in meter/second) -->
+	<property name="nPLAYER_WALK_SPEED">				<![CDATA[15]]>		</property>
+	<!-- Player's Running Speed (in meter/second) -->
+	<property name="nPLAYER_RUN_SPEED">					<![CDATA[25]]>		</property>
+	<!-- Player's sliding force (in N) -->
+	<property name="nPLAYER_SLIDING_FORCE">				<![CDATA[5000]]>	</property>
+	
+	<!-- Player's ClingSensor width(in meters)-->
+	<property name="nPLAYER_CLING_SENSOR_WIDTH">		<![CDATA[0.4]]>	</property>
+	<!-- Player's ClingSensor height(in meters)-->
+	<property name="nPLAYER_CLING_SENSOR_HEIGHT">		<![CDATA[0.3]]>	</property>
+	
+	//////////////////////
+	// OPPONENTS CONFIG //
+	//////////////////////
+	
+	<!-- Opponent's Mass (in kg) -->
+	<property name="nOPPONENT_MASS">					<![CDATA[50]]>		</property>
+	<!-- Opponent's Friction (coefficient, range [0,1]) -->
+	<property name="nOPPONENT_FRICTION">				<![CDATA[0.8]]>		</property>
+	<!-- Opponent's Restitution (elasticity coefficient, range [0,1] -->
+	<property name="nOPPONENT_RESTITUTION">				<![CDATA[0.1]]>		</property>
+	<!-- Opponent's Damping (coefficient, range [0,1]) -->
+	<property name="nOPPONENT_DAMPING">					<![CDATA[0.8]]>		</property>
+	
+	<!-- Jumper's Jumping Impulse(in N) -->
+	<property name="nJUMPER_JUMP_IMPULSE">				<![CDATA[1000]]>	</property>
+	<!-- Jumper's Jump Angle (in Degree) -->
+	<property name="nJUMPER_JUMP_ANGLE">				<![CDATA[20]]>		</property>
+	
+	<!-- Walker's Walking Velocity (in meter/second) -->
+	<property name="nWALKER_WALK_FORCE">				<![CDATA[5]]>		</property>
+	
+	<!-- Shooter's Shooting Delay (in Milliseconds) -->
+	<property name="nSHOOTER_SHOT_DELAY">				<![CDATA[2000]]>	</property>
+	<!-- Shooter's projectile mass(in kg) -->
+	<!-- (a mass of zero will make the projectile travel in a straight line, any value over 0 will give the projectile balistics behavior depending on damping value) -->
+	<property name="nSHOOTER_PROJECTILE_MASS">			<![CDATA[0]]>	</property>
+	<!-- Shooter's Shooting Damping (coefficient, range [0,1]) -->
+	<!--(will affect movement speed if value is over 0, can also affect ballistic behaviors if both projectile's mass and dampign value are over 0) -->
+	<property name="nSHOOTER_PROJECTILE_DAMPING">		<![CDATA[0]]>	</property>
+	<!-- Shooter's Projectile Speed (in Meter/Second) -->
+	<property name="nSHOOTER_PROJECTILE_SPEED">			<![CDATA[10]]>		</property>
+
+	
+	///////////////////////
+	// TILES PHYS CONFIG //
+	///////////////////////
+	
+	//! STANDARD GROUND SURFACE
+	<!-- GROUND's Density (in kg/m^2) -->
+	<property name="nGROUND_SURFACE_DENSITY">			<![CDATA[10]]>		</property>
+	<!-- GROUND's Friction (coefficient, range [0,1]) -->
+	<property name="nGROUND_SURFACE_FRICTION">			<![CDATA[0.3]]>		</property>
+	<!-- GROUND's Restitution (elasticity coefficient, range [0,1] -->
+	<property name="nGROUND_SURFACE_RESTITUTION">		<![CDATA[0]]>		</property>
+	
+	//! STANDARD GROUND SLOPE SURFACE
+	<!-- GROUND's Density (in kg/m^2) -->
+	<property name="nGROUNDSLOPE_SURFACE_DENSITY">		<![CDATA[10]]>		</property>
+	<!-- GROUND's Friction (coefficient, range [0,1]) -->
+	<property name="nGROUNDSLOPE_SURFACE_FRICTION">		<![CDATA[0.2]]>		</property>
+	<!-- GROUND's Restitution (elasticity coefficient, range [0,1] -->
+	<property name="nGROUNDSLOPE_SURFACE_RESTITUTION">	<![CDATA[0]]>		</property>
+	
+	//! WALL SURFACE
+	<!-- WALL's Density (in kg/m^2) -->
+	<property name="nWALL_SURFACE_DENSITY">				<![CDATA[10]]>		</property>
+	<!-- WALL's Friction (coefficient, range [0,1]) -->
+	<property name="nWALL_SURFACE_FRICTION">			<![CDATA[0]]>		</property>
+	<!-- WALL's Restitution (elasticity coefficient, range [0,1] -->
+	<property name="nWALL_SURFACE_RESTITUTION">			<![CDATA[0]]>		</property>
+	
+	//! CEILING SURFACE
+	<!-- CEILING's Density (in kg/m^2) -->
+	<property name="nCEILING_SURFACE_DENSITY">			<![CDATA[10]]>		</property>
+	<!-- CEILING's Friction (coefficient, range [0,1]) -->
+	<property name="nCEILING_SURFACE_FRICTION">			<![CDATA[0]]>		</property>
+	<!-- CEILING's Restitution (elasticity coefficient, range [0,1] -->
+	<property name="nCEILING_SURFACE_RESTITUTION">		<![CDATA[0]]>		</property>
+	
+	//! SLIPPERY SURFACE
+	<!-- SLIPPERY SURFACE's Density (in kg/m^2) -->
+	<property name="nSLIPPERY_SURFACE_DENSITY">			<![CDATA[10]]>		</property>
+	<!-- SLIPPERY SURFACE's Friction (coefficient, range [0,1]) -->
+	<property name="nSLIPPERY_SURFACE_FRICTION">		<![CDATA[0.1]]>		</property>
+	<!-- SLIPPERY SURFACE's Restitution (elasticity coefficient, range [0,1] -->
+	<property name="nSLIPPERY_SURFACE_RESTITUTION">		<![CDATA[0]]>		</property>
+	
+	//! SLIPPERY SLOPE SURFACE
+	<!-- SLIPPERY SURFACE's Density (in kg/m^2) -->
+	<property name="nSLIPPERYSLOPE_SURFACE_DENSITY">	<![CDATA[10]]>		</property>
+	<!-- SLIPPERY SURFACE's Friction (coefficient, range [0,1]) -->
+	<property name="nSLIPPERYSLOPE_SURFACE_FRICTION">	<![CDATA[0.1]]>		</property>
+	<!-- SLIPPERY SURFACE's Restitution (elasticity coefficient, range [0,1] -->
+	<property name="nSLIPPERYSLOPE_SURFACE_RESTITUTION"><![CDATA[0]]>		</property>
+	
+	//! PLATFORM SURFACE
+	<!-- PLATFORM's Density (in kg/m^2) -->
+	<property name="nPLATFORM_SURFACE_DENSITY">			<![CDATA[10]]>		</property>
+	<!-- PLATFORM's Friction (coefficient, range [0,1]) -->
+	<property name="nPLATFORM_SURFACE_FRICTION">		<![CDATA[0.2]]>		</property>
+	<!-- PLATFORM's Restitution (elasticity coefficient, range [0,1] -->
+	<property name="nPLATFORM_SURFACE_RESTITUTION">		<![CDATA[0]]>		</property>
+	
+	//! FATAL SURFACE
+	<!-- FATAL's Density (in kg/m^2) -->
+	<property name="nFATALFLOOR_SURFACE_DENSITY">		<![CDATA[10]]>		</property>
+	<property name="nFATALWALL_SURFACE_DENSITY">		<![CDATA[10]]>		</property>
+	<property name="nFATALCEILING_SURFACE_DENSITY">		<![CDATA[10]]>		</property>
+	<!-- FATAL's Friction (coefficient, range [0,1]) -->
+	<property name="nFATALFLOOR_SURFACE_FRICTION">		<![CDATA[0.3]]>		</property>
+	<property name="nFATALWALL_SURFACE_FRICTION">		<![CDATA[0]]>		</property>
+	<property name="nFATALCEILING_SURFACE_FRICTION">	<![CDATA[0]]>		</property>
+	<!-- FATAL's Restitution (elasticity coefficient, range [0,1] -->
+	<property name="nFATALFLOOR_SURFACE_RESTITUTION">	<![CDATA[0]]>		</property>
+	<property name="nFATALWALL_SURFACE_RESTITUTION">	<![CDATA[0]]>		</property>
+	<property name="nFATALCEILING_SURFACE_RESTITUTION">	<![CDATA[0]]>		</property>
+	
+</config>

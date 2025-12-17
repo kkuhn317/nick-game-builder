@@ -1,0 +1,418 @@
+<response>
+
+<medias>
+
+<element name="background">
+
+<media id="205320" alias="gs_sb_background01New" file="/assets/spongebob/builder/background/background01.swf">
+</media>
+
+<media id="205321" alias="gs_sb_background02New" file="/assets/spongebob/builder/background/background02.swf">
+</media>
+
+<media id="205322" alias="gs_sb_background03New" file="/assets/spongebob/builder/background/background03.swf">
+</media>
+
+<media id="205323" alias="gs_sb_background04New" file="/assets/spongebob/builder/background/background04.swf">
+</media>
+
+<media id="205323" alias="gs_sb_background05New" file="/assets/spongebob/builder/background/background05.swf"></media>
+<media id="205323" alias="gs_sb_background06New" file="/assets/spongebob/builder/background/background06.swf"></media>
+<media id="205323" alias="gs_sb_background07New" file="/assets/spongebob/builder/background/background07.swf"></media>
+<media id="205323" alias="gs_sb_background08New" file="/assets/spongebob/builder/background/background08.swf"></media>
+<media id="205323" alias="gs_sb_background09New" file="/assets/spongebob/builder/background/background09.swf"></media>
+<media id="205323" alias="gs_sb_background10New" file="/assets/spongebob/builder/background/background10.swf"></media>
+
+</element>
+
+<element name="bonusCoin">
+
+<media id="205324" alias="gs_sb_bonusCoin01New" file="/assets/spongebob/builder/bonusCoin/bonusCoin01.swf">
+</media>
+
+</element>
+
+<element name="bonusExtraLife">
+
+<media id="205325" alias="gs_sb_bonusExtraLife01New" file="/assets/spongebob/builder/bonusExtraLife/bonusExtraLife01.swf">
+</media>
+
+</element>
+
+<element name="bonusInvincibility">
+
+<media id="205326" alias="gs_sb_bonusInvincibility01New" file="/assets/spongebob/builder/bonusInvincibility/bonusInvincibility01.swf">
+</media>
+
+</element>
+
+<element name="goal">
+
+<media id="205328" alias="gs_sb_goal01New" file="/assets/spongebob/builder/goal/goal01.swf">
+</media>
+
+</element>
+
+<element name="music">
+
+<media id="205333" alias="gs_sb_musicPack02New" file="/assets/spongebob/builder/music/musicPack02.swf">
+</media>
+
+<media id="205332" alias="gs_sb_musicPack01New" file="/assets/spongebob/builder/music/musicPack01.swf">
+</media>
+
+<media id="205334" alias="gs_sb_musicPack03New" file="/assets/spongebob/builder/music/musicPack03.swf">
+</media>
+
+<media id="205335" alias="gs_sb_musicPack04New" file="/assets/spongebob/builder/music/musicPack04.swf">
+</media>
+
+<media id="205338" alias="gs_sb_musicPack07New" file="/assets/spongebob/builder/music/musicPack07.swf">
+</media>
+
+<media id="205351" alias="gs_sb_musicPack20New" file="/assets/spongebob/builder/music/musicPack20.swf">
+</media>
+
+<media id="205350" alias="gs_sb_musicPack19New" file="/assets/spongebob/builder/music/musicPack19.swf">
+</media>
+
+<media id="205349" alias="gs_sb_musicPack18New" file="/assets/spongebob/builder/music/musicPack18.swf">
+</media>
+
+<media id="205348" alias="gs_sb_musicPack17New" file="/assets/spongebob/builder/music/musicPack17.swf">
+</media>
+
+<media id="205347" alias="gs_sb_musicPack16New" file="/assets/spongebob/builder/music/musicPack16.swf">
+</media>
+
+<media id="205346" alias="gs_sb_musicPack15New" file="/assets/spongebob/builder/music/musicPack15.swf">
+</media>
+
+<media id="205345" alias="gs_sb_musicPack14New" file="/assets/spongebob/builder/music/musicPack14.swf">
+</media>
+
+<media id="205344" alias="gs_sb_musicPack13New" file="/assets/spongebob/builder/music/musicPack13.swf">
+</media>
+
+<media id="205343" alias="gs_sb_musicPack12New" file="/assets/spongebob/builder/music/musicPack12.swf">
+</media>
+
+<media id="205342" alias="gs_sb_musicPack11New" file="/assets/spongebob/builder/music/musicPack11.swf">
+</media>
+
+<media id="205341" alias="gs_sb_musicPack10New" file="/assets/spongebob/builder/music/musicPack10.swf">
+</media>
+
+<media id="205340" alias="gs_sb_musicPack09New" file="/assets/spongebob/builder/music/musicPack09.swf">
+</media>
+
+<media id="205339" alias="gs_sb_musicPack08New" file="/assets/spongebob/builder/music/musicPack08.swf">
+</media>
+
+<media id="205337" alias="gs_sb_musicPack06New" file="/assets/spongebob/builder/music/musicPack06.swf">
+</media>
+
+<media id="205336" alias="gs_sb_musicPack05New" file="/assets/spongebob/builder/music/musicPack05.swf">
+</media>
+
+</element>
+
+<element name="opponentJumper">
+
+<media id="205693" alias="gs_sb_opponentJumper01New" file="/assets/spongebob/builder/opponentJumper/opponentJumper01.swf">
+</media>
+
+</element>
+
+<element name="opponentShooter">
+
+<media id="205694" alias="gs_sb_opponentShooter01New" file="/assets/spongebob/builder/opponentShooter/opponentShooter01.swf">
+</media>
+
+</element>
+
+<element name="opponentWalker">
+
+<media id="205695" alias="gs_sb_opponentWalker01New" file="/assets/spongebob/builder/opponentWalker/opponentWalker01.swf">
+</media>
+
+</element>
+
+<element name="platformObject">
+
+<media id="205698" alias="gs_sb_platformObject03New" file="/assets/spongebob/builder/platformObject/platformObject03.swf">
+</media>
+
+<media id="205697" alias="gs_sb_platformObject02New" file="/assets/spongebob/builder/platformObject/platformObject02.swf">
+</media>
+
+<media id="205696" alias="gs_sb_platformObject01New" file="/assets/spongebob/builder/platformObject/platformObject01.swf">
+</media>
+
+</element>
+
+<element name="playableCharacter">
+
+<media id="205709" alias="gs_sb_playableCharacter04New" file="/assets/spongebob/builder/playableCharacter/playableCharacter04.swf">
+</media>
+
+<media id="205707" alias="gs_sb_playableCharacter03New" file="/assets/spongebob/builder/playableCharacter/playableCharacter03.swf">
+</media>
+
+<media id="205701" alias="gs_sb_playableCharacter02New" file="/assets/spongebob/builder/playableCharacter/playableCharacter02.swf">
+</media>
+
+<media id="205700" alias="gs_sb_playableCharacter01New" file="/assets/spongebob/builder/playableCharacter/playableCharacter01.swf">
+</media>
+
+</element>
+
+<element name="props">
+
+<media id="205753" alias="gs_sb_props38New" file="/assets/spongebob/builder/props/props38.swf">
+</media>
+
+<media id="205752" alias="gs_sb_props37New" file="/assets/spongebob/builder/props/props37.swf">
+</media>
+
+<media id="205751" alias="gs_sb_props36New" file="/assets/spongebob/builder/props/props36.swf">
+</media>
+
+<media id="205750" alias="gs_sb_props35New" file="/assets/spongebob/builder/props/props35.swf">
+</media>
+
+<media id="205749" alias="gs_sb_props34New" file="/assets/spongebob/builder/props/props34.swf">
+</media>
+
+<media id="205748" alias="gs_sb_props33New" file="/assets/spongebob/builder/props/props33.swf">
+</media>
+
+<media id="205747" alias="gs_sb_props32New" file="/assets/spongebob/builder/props/props32.swf">
+</media>
+
+<media id="205742" alias="gs_sb_props27New" file="/assets/spongebob/builder/props/props27.swf">
+</media>
+
+<media id="205741" alias="gs_sb_props26New" file="/assets/spongebob/builder/props/props26.swf">
+</media>
+
+<media id="205740" alias="gs_sb_props25New" file="/assets/spongebob/builder/props/props25.swf">
+</media>
+
+<media id="205739" alias="gs_sb_props24New" file="/assets/spongebob/builder/props/props24.swf">
+</media>
+
+<media id="205738" alias="gs_sb_props23New" file="/assets/spongebob/builder/props/props23.swf">
+</media>
+
+<media id="205737" alias="gs_sb_props22New" file="/assets/spongebob/builder/props/props22.swf">
+</media>
+
+<media id="205736" alias="gs_sb_props21New" file="/assets/spongebob/builder/props/props21.swf">
+</media>
+
+<media id="205735" alias="gs_sb_props20New" file="/assets/spongebob/builder/props/props20.swf">
+</media>
+
+<media id="205734" alias="gs_sb_props19New" file="/assets/spongebob/builder/props/props19.swf">
+</media>
+
+<media id="205733" alias="gs_sb_props18New" file="/assets/spongebob/builder/props/props18.swf">
+</media>
+
+<media id="205732" alias="gs_sb_props17New" file="/assets/spongebob/builder/props/props17.swf">
+</media>
+
+<media id="205731" alias="gs_sb_props16New" file="/assets/spongebob/builder/props/props16.swf">
+</media>
+
+<media id="205730" alias="gs_sb_props15New" file="/assets/spongebob/builder/props/props15.swf">
+</media>
+
+<media id="205729" alias="gs_sb_props14New" file="/assets/spongebob/builder/props/props14.swf">
+</media>
+
+<media id="205727" alias="gs_sb_props13New" file="/assets/spongebob/builder/props/props13.swf">
+</media>
+
+<media id="205723" alias="gs_sb_props11New" file="/assets/spongebob/builder/props/props11.swf">
+</media>
+
+<media id="205722" alias="gs_sb_props10New" file="/assets/spongebob/builder/props/props10.swf">
+</media>
+
+<media id="205721" alias="gs_sb_props09New" file="/assets/spongebob/builder/props/props09.swf">
+</media>
+
+<media id="205720" alias="gs_sb_props08New" file="/assets/spongebob/builder/props/props08.swf">
+</media>
+
+<media id="205719" alias="gs_sb_props07New" file="/assets/spongebob/builder/props/props07.swf">
+</media>
+
+<media id="205718" alias="gs_sb_props06New" file="/assets/spongebob/builder/props/props06.swf">
+</media>
+
+<media id="205716" alias="gs_sb_props05New" file="/assets/spongebob/builder/props/props05.swf">
+</media>
+
+<media id="205715" alias="gs_sb_props04New" file="/assets/spongebob/builder/props/props04.swf">
+</media>
+
+<media id="205712" alias="gs_sb_props02New" file="/assets/spongebob/builder/props/props02.swf">
+</media>
+
+<media id="205710" alias="gs_sb_props01New" file="/assets/spongebob/builder/props/props01.swf">
+</media>
+
+<media id="205777" alias="gs_sb_props28_modele5New" file="/assets/spongebob/builder/props/props28_modele5.swf">
+</media>
+
+<media id="205776" alias="gs_sb_props29_modele5New" file="/assets/spongebob/builder/props/props29_modele5.swf">
+</media>
+
+<media id="205775" alias="gs_sb_props30_modele5New" file="/assets/spongebob/builder/props/props30_modele5.swf">
+</media>
+
+<media id="205782" alias="gs_sb_props35_modele05New" file="/assets/spongebob/builder/props/props35_modele05.swf">
+</media>
+
+<media id="205781" alias="gs_sb_props35_modele04New" file="/assets/spongebob/builder/props/props35_modele04.swf">
+</media>
+
+<media id="205780" alias="gs_sb_props35_modele03New" file="/assets/spongebob/builder/props/props35_modele03.swf">
+</media>
+
+<media id="205779" alias="gs_sb_props35_modele02New" file="/assets/spongebob/builder/props/props35_modele02.swf">
+</media>
+
+<media id="205774" alias="gs_sb_props30_modele4New" file="/assets/spongebob/builder/props/props30_modele4.swf">
+</media>
+
+<media id="205773" alias="gs_sb_props29_modele4New" file="/assets/spongebob/builder/props/props29_modele4.swf">
+</media>
+
+<media id="205772" alias="gs_sb_props28_modele4New" file="/assets/spongebob/builder/props/props28_modele4.swf">
+</media>
+
+<media id="205770" alias="gs_sb_props26_modele4New" file="/assets/spongebob/builder/props/props26_modele4.swf">
+</media>
+
+<media id="205768" alias="gs_sb_props14_modele3New" file="/assets/spongebob/builder/props/props14_modele3.swf">
+</media>
+
+<media id="205766" alias="gs_sb_props27_modele3New" file="/assets/spongebob/builder/props/props27_modele3.swf">
+</media>
+
+<media id="205762" alias="gs_sb_props30_modele2New" file="/assets/spongebob/builder/props/props30_modele2.swf">
+</media>
+
+<media id="205761" alias="gs_sb_props29_modele2New" file="/assets/spongebob/builder/props/props29_modele2.swf">
+</media>
+
+<media id="205760" alias="gs_sb_props28_modele2New" file="/assets/spongebob/builder/props/props28_modele2.swf">
+</media>
+
+<media id="205759" alias="gs_sb_props27_modele2New" file="/assets/spongebob/builder/props/props27_modele2.swf">
+</media>
+
+<media id="205758" alias="gs_sb_props26_modele2New" file="/assets/spongebob/builder/props/props26_modele2.swf">
+</media>
+
+<media id="205757" alias="gs_sb_props14_modele2New" file="/assets/spongebob/builder/props/props14_modele2.swf">
+</media>
+
+<media id="205756" alias="gs_sb_props13_modele2New" file="/assets/spongebob/builder/props/props13_modele2.swf">
+</media>
+
+<media id="205755" alias="gs_sb_props02New" file="/assets/spongebob/builder/props/props02.swf">
+</media>
+
+<media id="205754" alias="gs_sb_props02_modele2New" file="/assets/spongebob/builder/props/props02_modele2.swf">
+</media>
+
+</element>
+
+<element name="sfx">
+
+<media id="205786" alias="gs_sb_SFXPack01New" file="/assets/spongebob/builder/sfx/SFXPack01.swf">
+</media>
+
+</element>
+
+<element name="tileFatal">
+
+<media id="205788" alias="gs_sb_tileFatal01New" file="/assets/spongebob/builder/tileFatal/tileFatal01.swf">
+</media>
+
+</element>
+
+<element name="tilePlatform">
+
+<media id="205802" alias="gs_sb_tilePlatform14New" file="/assets/spongebob/builder/tilePlatform/tilePlatform14.swf">
+</media>
+
+<media id="205801" alias="gs_sb_tilePlatform13New" file="/assets/spongebob/builder/tilePlatform/tilePlatform13.swf">
+</media>
+
+<media id="205799" alias="gs_sb_tilePlatform11New" file="/assets/spongebob/builder/tilePlatform/tilePlatform11.swf">
+</media>
+
+<media id="205798" alias="gs_sb_tilePlatform10New" file="/assets/spongebob/builder/tilePlatform/tilePlatform10.swf">
+</media>
+
+<media id="205797" alias="gs_sb_tilePlatform09New" file="/assets/spongebob/builder/tilePlatform/tilePlatform09.swf">
+</media>
+
+<media id="205796" alias="gs_sb_tilePlatform08New" file="/assets/spongebob/builder/tilePlatform/tilePlatform08.swf">
+</media>
+
+<media id="205795" alias="gs_sb_tilePlatform07New" file="/assets/spongebob/builder/tilePlatform/tilePlatform07.swf">
+</media>
+
+<media id="205794" alias="gs_sb_tilePlatform06New" file="/assets/spongebob/builder/tilePlatform/tilePlatform06.swf">
+</media>
+
+<media id="205792" alias="gs_sb_tilePlatform04New" file="/assets/spongebob/builder/tilePlatform/tilePlatform04.swf">
+</media>
+
+<media id="205791" alias="gs_sb_tilePlatform03New" file="/assets/spongebob/builder/tilePlatform/tilePlatform03.swf">
+</media>
+
+<media id="205790" alias="gs_sb_tilePlatform02New" file="/assets/spongebob/builder/tilePlatform/tilePlatform02.swf">
+</media>
+
+</element>
+
+<element name="tileSlippery">
+
+<media id="207538" alias="gs_sb_tileSlippery04New" file="/assets/spongebob/builder/tileSlippery/tileSlippery04.swf">
+</media>
+
+<media id="207534" alias="gs_sb_tileSlippery03New" file="/assets/spongebob/builder/tileSlippery/tileSlippery03.swf">
+</media>
+
+<media id="207533" alias="gs_sb_tileSlippery02New" file="/assets/spongebob/builder/tileSlippery/tileSlippery02.swf">
+</media>
+
+<media id="205805" alias="gs_sb_tileSlippery01New" file="/assets/spongebob/builder/tileSlippery/tileSlippery01.swf">
+</media>
+
+</element>
+
+<element name="tileSurface">
+
+<media id="207543" alias="gs_sb_tileSurface03New" file="/assets/spongebob/builder/tileSurface/tileSurface03.swf">
+</media>
+
+<media id="207541" alias="gs_sb_tileSurface02New" file="/assets/spongebob/builder/tileSurface/tileSurface02.swf">
+</media>
+
+<media id="207539" alias="gs_sb_tileSurface01New" file="/assets/spongebob/builder/tileSurface/tileSurface01.swf">
+</media>
+
+</element>
+
+</medias>
+
+</response>

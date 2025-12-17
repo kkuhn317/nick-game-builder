@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Nickelodeon Game Builder Restoration</title>
+    <style>
+        body { background-color: #333; color: white; text-align: center; }
+    </style>
+</head>
+<body>
+    <h2>Nickelodeon Game Builder (Restored)</h2>
+    
+    <div id="game-container"></div>
+
+    <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+    
+    <script>
+        window.RufflePlayer = window.RufflePlayer || {};
+        window.addEventListener("load", (event) => {
+            const ruffle = window.RufflePlayer.newest();
+            const player = ruffle.createPlayer();
+            const container = document.getElementById("game-container");
+            container.appendChild(player);
+
+            player.load({
+                url: "BuilderMain.swf",
+                
+                // These parameters tell the game how to behave
+                parameters: {
+                    "builderType": "spongebob",  // Trying to force SpongeBob mode
+                    "dataPath": "data/",         // Helping it find the config folder
+                    "slotID": "-1"
+                },
+                
+                // This forces the game to look for files starting at localhost
+                base: ".", 
+            });
+        });
+    </script>
+</body>
+</html>
