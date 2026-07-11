@@ -3,38 +3,44 @@
 <head>
     <title>Nickelodeon Game Builder Restoration</title>
     <style>
-        body { background-color: #333; color: white; text-align: center; }
+        body { background-color: #333; color: white; text-align: center; margin-top: 20px; }
+        
+        /* Adjust width and height to match the game's actual resolution */
+        #game-container { 
+            margin: 0 auto; 
+            width: 800px; 
+            height: 600px; 
+            background-color: #000;
+        }
     </style>
 </head>
 <body>
     <h2>Nickelodeon Game Builder (Restored)</h2>
     
-    <div id="game-container"></div>
-
-    <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
-    
-    <script>
-        window.RufflePlayer = window.RufflePlayer || {};
-        window.addEventListener("load", (event) => {
-            const ruffle = window.RufflePlayer.newest();
-            const player = ruffle.createPlayer();
-            const container = document.getElementById("game-container");
-            container.appendChild(player);
-
-            player.load({
-                url: "BuilderMain.swf",
-                
-                // These parameters tell the game how to behave
-                parameters: {
-                    "builderType": "spongebob",  // Trying to force SpongeBob mode
-                    "dataPath": "data/",         // Helping it find the config folder
-                    "slotID": "-1"
-                },
-                
-                // This forces the game to look for files starting at localhost
-                base: ".", 
-            });
-        });
-    </script>
+    <div id="game-container">
+        <!-- Native Flash Embed -->
+        <object width="100%" height="100%" data="BuilderMain.swf" type="application/x-shockwave-flash">
+            <param name="movie" value="BuilderMain.swf" />
+            
+            <!-- Forces the game to treat your root folder as the base URL -->
+            <param name="base" value="." />
+            <param name="allowScriptAccess" value="always" />
+            <param name="allowNetworking" value="all" />
+            
+            <!-- These are the variables you were previously passing via Ruffle -->
+            <param name="flashvars" value="builderType=spongebob&dataPath=data/&slotID=-1" />
+            
+            <!-- Fallback for older plugin architectures -->
+            <embed src="BuilderMain.swf" 
+                   width="100%" 
+                   height="100%" 
+                   base="." 
+                   allowScriptAccess="always" 
+                   allowNetworking="all"
+                   type="application/x-shockwave-flash" 
+                   flashvars="builderType=spongebob&dataPath=data/&slotID=-1">
+            </embed>
+        </object>
+    </div>
 </body>
 </html>
