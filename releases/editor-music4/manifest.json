@@ -1,0 +1,81 @@
+{
+  "captured": "2026-09-09",
+  "baseline": "editorMusic4",
+  "files": [
+    {
+      "sha256": "b37dfed200cd299edaec88149ef0406658873c76b55f1072b6bf9d1431ecdaee",
+      "path": "releases/editor-music4/audit-music.cjs",
+      "bytes": 1478
+    },
+    {
+      "sha256": "379ec8f29bf1cac657dcf5813a9df22f948849868bb1838c6880b6f3e5ca4603",
+      "path": "releases/editor-music4/build.ps1",
+      "bytes": 917
+    },
+    {
+      "sha256": "235cda1438d644aafd4e9fe82754df6753f3671118e7d74a5e3ec3d6c695dfd4",
+      "path": "releases/editor-music4/BuilderMain-editor.swf",
+      "bytes": 643944
+    },
+    {
+      "sha256": "9ba460600cffca9f7fa632b80aa8aab703dced9721020b8f24ff4932cfc67ff5",
+      "path": "releases/editor-music4/README.md",
+      "bytes": 1006
+    },
+    {
+      "sha256": "6d5dc61962973f8c56dc00c1ae60809502711a9c1cd619957b3b7f9f54101be9",
+      "path": "releases/editor-music4/verify-swf.cjs",
+      "bytes": 3902
+    },
+    {
+      "sha256": "244547779777c907520fd03e51bf5122074bf569a4f2d2d822b7e2e63b1b0ce5",
+      "path": "releases/editor-music4/scripts/BuilderMain.as",
+      "bytes": 48381
+    },
+    {
+      "sha256": "489dc5aa9eb0a40e75b8af3212b5191b479da5693762a9eb675c4b417ac177ff",
+      "path": "releases/editor-music4/scripts/BuilderSoundConfig.as",
+      "bytes": 1517
+    },
+    {
+      "sha256": "3685f92312aec422805bcbf85389104c6375fe27ebe4793e396cec5ea310a017",
+      "path": "releases/editor-music4/scripts/SoundConfig.as",
+      "bytes": 1320
+    },
+    {
+      "sha256": "ec5bf0faed67d74768352c1f234dc4889b96029443f3ac86fd1da369e98a96f7",
+      "path": "releases/editor-music4/scripts/builderManager/BuilderManager.as",
+      "bytes": 18063
+    },
+    {
+      "sha256": "7d56fa70df0ccafbb330cc519c1567e0d79881bd039fc68cce98f887b9a3c603",
+      "path": "releases/editor-music4/scripts/builderManager/ToolManager.as",
+      "bytes": 28696
+    },
+    {
+      "sha256": "217918e1b196af843f45a69e783a04d7ce186903d3b3311afe4d4a9cc91d32b3",
+      "path": "releases/editor-music4/scripts/gamePlayer/GamePlayer.as",
+      "bytes": 29836
+    },
+    {
+      "sha256": "adfceedcc924ae542d47ee7c23277912ee59d1a83b6828f2ebd0948cda0a5619",
+      "path": "releases/editor-music4/scripts/gamePlayer/ui/GamePlayerHUD.as",
+      "bytes": 10215
+    },
+    {
+      "sha256": "16bf7cbbd0b16de40a50997e57a6c0b896505371c35d8d18860c91252d90a801",
+      "path": "releases/editor-music4/scripts/media/type/PlayableCharacterMedia.as",
+      "bytes": 4177
+    },
+    {
+      "sha256": "1f632e2b7e400f3b1997d3ee33e530a006b501ec543d0ef32efa05f30ad96e69",
+      "path": "releases/editor-music4/scripts/media/type/TileSurfaceMedia.as",
+      "bytes": 2802
+    },
+    {
+      "sha256": "c6ad1a3d9e9a00feae3b2276e24cd379c193aa9fecf05ae9bf5849fb0a600c22",
+      "path": "BuilderMain unmodified.swf",
+      "bytes": 683989
+    }
+  ]
+}

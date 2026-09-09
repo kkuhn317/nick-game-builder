@@ -1,2 +1,12 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.swf binary
+*.png binary
+*.zip binary
+*.as text eol=lf
+*.cjs text eol=lf
+*.py text eol=lf
+*.ps1 text eol=lf
+*.md text eol=lf
+*.html text eol=lf
+/releases/editor-music4/** -text

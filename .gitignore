@@ -1,0 +1,25 @@
+# Generated decompilation checks and temporary build products
+**/verified*/
+**/*.log
+**/compiled.swf
+/analysis/patched/
+/editor/baseline-v1/
+/editor/boot/
+/editor/BuilderMain-editor-v2-white-screen.swf
+/editor/README-v2.md
+/editor/upgrade-v2.cjs
+/BuilderMain-editor-boot.swf
+/diagnostic/BuilderMain-diagnostic-v*.swf
+/harness/BuilderMain-harness-v*.swf
+/harness/classes.txt
+
+# Machine-local and user-created files
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+/restored-level*.xml
